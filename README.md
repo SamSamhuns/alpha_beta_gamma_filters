@@ -1,2 +1,3 @@
-# alpha_beta_gamma_filters
-Example implementations of alpha beta gamma filters
+# α - β - γ Filters
+
+Example implementations of α - β - γ filters from the [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
